@@ -60,9 +60,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <a href = "mailto:mnbatrawi@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/mazen-batrawi-bb8b74221/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
-  <a href = "https://codeforces.com/profile/MeEzOo_"><img src = "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height = 30></a>
-  <a href = "https://leetcode.com/mazenbatrawi/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height = 30></a>
- 
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
