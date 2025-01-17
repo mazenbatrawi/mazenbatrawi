@@ -7,9 +7,8 @@
 <h1>About Me 📌</h1>
 
 - 👋 Hi, I’m Mazen Batrawi
-- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
-- 💻 I’m Currently Learning Full-Stack and Flutter
 - 🎓 Computer Engineer Student @ Birzeit University
+- 📌 Software Engineer @ Asal Technologies
 - 📫 How to Reach Me mnbatrawi@gmail.com
 
 <!---
